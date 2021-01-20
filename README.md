@@ -1,2 +1,2 @@
 # TMS-quotations
-Repository for a quotations app for logisitcs/transportation services
+Repository to test a quotations app for logisitcs/transportation services.
